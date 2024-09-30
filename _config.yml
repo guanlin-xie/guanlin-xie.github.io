@@ -6,7 +6,7 @@ title: ICLR Blogposts 2024 # the website title (if blank, full name will be used
 first_name: ICLR
 middle_name: 
 last_name: Blog
-email: 
+email: 1377189531@qq.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Home to the 2024 ICLR Blogposts track
 footer_text: >
@@ -18,8 +18,8 @@ keywords: machine-learning, ml, deep-learning, reinforcement-learning, iclr  # a
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: iclr_favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://iclr-blogposts.github.io # the base hostname & protocol for your site
-baseurl: /2024 # the subpath of your site, e.g. /blog/
+url: https://guanlin-xie.github.io # the base hostname & protocol for your site
+baseurl: #/2024 # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
