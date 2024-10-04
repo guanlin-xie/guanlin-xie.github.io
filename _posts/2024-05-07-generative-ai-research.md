@@ -95,7 +95,7 @@ Generative AI has been used to create realistic images, ranging from synthetic f
 
 {% raw %}{% include figure.html path="assets/img/2024-10-04-generative-ai-research/generative-ai-image-generation.png" class="img-fluid" %}{% endraw %}
 
-To ensure that there are no namespace conflicts, you must save your asset to your unique directory /assets/img/2024-09-30-[generative-ai-research] within your submission.
+To ensure that there are no namespace conflicts, you must save your asset to your unique directory /assets/img/2024-05-07-[generative-ai-research] within your submission.
 
 Text Generation
 
