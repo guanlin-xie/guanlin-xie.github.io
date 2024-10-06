@@ -24,8 +24,7 @@ bibliography: 2024-09-30-generative-ai-research.bib
 # Add a table of contents to your post.
 #   - make sure that TOC names match the actual section names
 #     for hyperlinks within the post to work correctly. 
-#   - please use this format rather than manually creating a markdown table of contents.
-toc:
+#   - please use this format rather than manually creating a markdown table of contents
 toc:
   - name: Introduction
   - name: Theoretical Foundations
