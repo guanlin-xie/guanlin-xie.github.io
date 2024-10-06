@@ -92,9 +92,9 @@ Image Generation
 
 Generative AI has been used to create realistic images, ranging from synthetic faces to artistic styles. It has applications in video games, virtual reality, and even in generating training data for other machine learning models.
 
-{% raw %}{% include figure.html path="assets/img/2024-10-04-generative-ai-research/generative-ai-image-generation.png" class="img-fluid" %}{% endraw %}
+{% raw %}{% include figure.html path="assets/img/2024-05-07-generative-ai-research/generative-ai-image-generation.png" class="img-fluid" %}{% endraw %}
 
-To ensure that there are no namespace conflicts, you must save your asset to your unique directory /assets/img/2024-05-07-[generative-ai-research] within your submission.
+To ensure that there are no namespace conflicts, you must save your asset to your unique directory /assets/img/2024-05-07-generative-ai-research within your submission.
 
 Text Generation
 
