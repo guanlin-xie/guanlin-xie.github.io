@@ -95,6 +95,17 @@ Generative AI has been used to create realistic images, ranging from synthetic f
 <div class="col-sm mt-3 mt-md-0">
   {% raw %}{% include figure.html path="assets/img/2024-05-07-generative-ai-research/generative-ai-image-generation.png" class="img-fluid rounded z-depth-1" %}{% endraw %}
 </div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2024-05-07-distill-example/9.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2024-05-07-distill-example/7.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
 
 To ensure that there are no namespace conflicts, you must save your asset to your unique directory /assets/img/2024-05-07-generative-ai-research within your submission.
 
