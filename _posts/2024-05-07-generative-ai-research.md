@@ -94,10 +94,10 @@ Generative AI has been used to create realistic images, ranging from synthetic f
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2024-05-07-generative-ai-research/generative-ai-image-generation.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2024-05-07-generative-ai-research/generative-ai.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2024-05-07-generative-ai-research/generative-ai.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2024-05-07-generative-ai-research/generative-ai-image-generation.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
